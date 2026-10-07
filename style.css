@@ -1698,6 +1698,7 @@ ul { list-style: none; }
   backdrop-filter: blur(2px);
   transform: translateX(-50%);
   pointer-events: none;
+  z-index: 3;
 }
 .comparison-handle {
   position: absolute;
