@@ -86,6 +86,7 @@
   background-size: 100% 100%;
   background-repeat: no-repeat;
   z-index: 10;
+  pointer-events: none;
 }
 
 .bg-dark::before {
